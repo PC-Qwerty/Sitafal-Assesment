@@ -1,0 +1,35 @@
+Query: What types of visual data representations are discussed in the PDF?
+- Types of Visual Representations of Data
+-  We use charts and graphs to visualize data.  This data can either be generated data, data gathered from an experiment, or data collected from some source.  A picture tells a thousand words so it is not a surprise that many people use charts and graphs when explaining data.
+- Tables, Charts, and Graphs Basics
+- Tables, Charts, and Graphs with Examples from History, Economics, Education, Psychology, Urban Affairs and Everyday Life REVISED: MICHAEL LOLKUS 2018
+- Example from Psychology What do you notice is different in this graph than the others reviewed so far?
+
+Query: What is the GDP of the manufacturing sector in 2015?
+- • The chart below is called a pie chart. It shows what percent “of the pie” a particular category occupies out of the whole. • If total GDP in 2015 is the entire pie, then manufacturing makes up 19% of that pie and finance makes up 18%. Notice that visually speaking, since 19% and 18% are so close to each other in value, their respective slices of the pie are similarly sized. 2015 U.S. GDP (in millions of dollars) Manufacturing 19% Finance, insurance, real estate, rental, and leasing 18% Arts, entertainment, 59% recreation, accommodation, and food services Other 4%
+- • The graph below is called a bar graph. • It shows each of the variables independent of each other, each with its own bar. • 2015 GDP for all industries was $31.397023; looking at the graph, the bar for all industries is just above $30. • One is still be able compare each variable with the other by comparing bars. 2015 GDP (in trillions of dollars) Other Arts, entertainment, recreation, accommodation, and food services Finance, insurance, real estate, rental, and leasing Manufacturing All industries 0 5 10 15 20 25 30 35 Dollars
+- Table of Yearly U.S. GDP by Industry (in millions of dollars) Source: U.S. Bureau of Labor Statistics Year 2010 2011 2012 2013 2014 2015 All Industries 26093515 27535971 28663246 29601191 30895407 31397023 Manufacturing 4992521 5581942 5841608 5953299 6047477 5829554 Finance, Insurance, Real 4522451 4618678 4797313 5031881 5339678 5597018 Estate, Rental, Leasing Arts, Entertainment, Recreation, 964032 1015238 1076249 1120496 1189646 1283813 Accommodation, and Food Service Other 15614511 16320113 16948076 17495515 18318606 18686638
+- Solution  The chart indicates that 15% of the income is spent on transportation. We must answer the question: 15% of $31,000 is what?  Writing as an equation and solving, we get  n = 0.15 x 31,000 = 4650  So the family spends $4650 on transportation yearly.
+- • The graph below is called a line graph. It shows how a variable evolves with respect to another variable. In the line graph below, we show how GDP has evolved by year. 35 30 25 20 15 10 5 0 sralloD 7491 0591 3591 6591 9591 2691 5691 8691 1791 4791 7791 0891 3891 6891 9891 2991 5991 8991 1002 4002 7002 0102 3102 Yearly Total GDP (in trillions of dollars) Yearly Total GDP Year
+
+Query: What types of visual data representations are discussed in the PDF?
+- Types of Visual Representations of Data
+-  We use charts and graphs to visualize data.  This data can either be generated data, data gathered from an experiment, or data collected from some source.  A picture tells a thousand words so it is not a surprise that many people use charts and graphs when explaining data.
+- Tables, Charts, and Graphs Basics
+- Tables, Charts, and Graphs with Examples from History, Economics, Education, Psychology, Urban Affairs and Everyday Life REVISED: MICHAEL LOLKUS 2018
+- Example from Psychology What do you notice is different in this graph than the others reviewed so far?
+
+Query: What is the GDP of the manufacturing sector in 2015?
+- • The chart below is called a pie chart. It shows what percent “of the pie” a particular category occupies out of the whole. • If total GDP in 2015 is the entire pie, then manufacturing makes up 19% of that pie and finance makes up 18%. Notice that visually speaking, since 19% and 18% are so close to each other in value, their respective slices of the pie are similarly sized. 2015 U.S. GDP (in millions of dollars) Manufacturing 19% Finance, insurance, real estate, rental, and leasing 18% Arts, entertainment, 59% recreation, accommodation, and food services Other 4%
+- • The graph below is called a bar graph. • It shows each of the variables independent of each other, each with its own bar. • 2015 GDP for all industries was $31.397023; looking at the graph, the bar for all industries is just above $30. • One is still be able compare each variable with the other by comparing bars. 2015 GDP (in trillions of dollars) Other Arts, entertainment, recreation, accommodation, and food services Finance, insurance, real estate, rental, and leasing Manufacturing All industries 0 5 10 15 20 25 30 35 Dollars
+- Table of Yearly U.S. GDP by Industry (in millions of dollars) Source: U.S. Bureau of Labor Statistics Year 2010 2011 2012 2013 2014 2015 All Industries 26093515 27535971 28663246 29601191 30895407 31397023 Manufacturing 4992521 5581942 5841608 5953299 6047477 5829554 Finance, Insurance, Real 4522451 4618678 4797313 5031881 5339678 5597018 Estate, Rental, Leasing Arts, Entertainment, Recreation, 964032 1015238 1076249 1120496 1189646 1283813 Accommodation, and Food Service Other 15614511 16320113 16948076 17495515 18318606 18686638
+- Solution  The chart indicates that 15% of the income is spent on transportation. We must answer the question: 15% of $31,000 is what?  Writing as an equation and solving, we get  n = 0.15 x 31,000 = 4650  So the family spends $4650 on transportation yearly.
+- • The graph below is called a line graph. It shows how a variable evolves with respect to another variable. In the line graph below, we show how GDP has evolved by year. 35 30 25 20 15 10 5 0 sralloD 7491 0591 3591 6591 9591 2691 5691 8691 1791 4791 7791 0891 3891 6891 9891 2991 5991 8991 1002 4002 7002 0102 3102 Yearly Total GDP (in trillions of dollars) Yearly Total GDP Year
+
+Extracted Tables:
+Page 6:
+[['Year', '2010', '2011', '2012', '2013', '2014', '2015'], ['All Industries', '26093515', '27535971', '28663246', '29601191', '30895407', '31397023'], ['Manufacturing', '4992521', '5581942', '5841608', '5953299', '6047477', '5829554'], ['Finance,\nInsurance, Real\nEstate, Rental,\nLeasing', '4522451', '4618678', '4797313', '5031881', '5339678', '5597018'], ['Arts,\nEntertainment,\nRecreation,\nAccommodation,\nand Food Service', '964032', '1015238', '1076249', '1120496', '1189646', '1283813'], ['Other', '15614511', '16320113', '16948076', '17495515', '18318606', '18686638']]
+
+Page 11:
+[['', '', '', '', None, None, None], ['', '', '', None, None, None, None], ['', '', None, None, None, None, None], ['', None, None, None, None, None, None], ['', '', None, None, None, None, None], ['', None, None, None, None, None, None], ['', '', '', '', '', '', ''], ['', '', '', '', '', '', None]]
+
